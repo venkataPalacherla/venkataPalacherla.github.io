@@ -51,4 +51,3 @@ Project figures and animations were retrieved from the corresponding public repo
 - `assets/quadrotor.gif`: [Quadrotor-Control-with-LQR-iLQR](https://github.com/venkataPalacherla/Quadrotor-Control-with-LQR-iLQR), `Assets/LQRController.gif`.
 - `assets/pendulum.gif`: [Pendulum-control-with-Q-learning](https://github.com/venkataPalacherla/Pendulum-control-with-Q-learning), `Assets/inversePendulum.gif`.
 
-Layout is newly implemented, inspired by the restrained personal/research presentation at https://raktimgg.github.io/. No source code, biography, or images were copied from that website.
